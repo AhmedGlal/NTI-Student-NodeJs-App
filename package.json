@@ -1,0 +1,14 @@
+{
+  "name": "student-node-app",
+  "version": "1.0.0",
+  "description": "Packages For Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Glal",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
